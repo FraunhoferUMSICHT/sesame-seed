@@ -13,6 +13,8 @@ If you are interested in the code of the storage models, you will find it in the
 
 ## Contact information
 
-Dr. Eva Schischke \\
-Fraunhofer Institute UMSICHT, Osterfelder Straße 3, 46047 Oberhausen \\
+Dr. Eva Schischke 
+
+Fraunhofer Institute UMSICHT, Osterfelder Straße 3, 46047 Oberhausen 
+
 eva.schischke@umsicht.fraunhofer.de
