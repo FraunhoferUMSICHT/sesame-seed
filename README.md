@@ -8,7 +8,7 @@ In Sesame Seed a toolchain to consistently parametrize energy storage systems ha
 
 Start with [Toolchain](Toolchain.md) to gain insight into what the toolchain is and how it works. For an application of the toolchain check out the [Pumped Hydro Storage Example](toolchain_with_phs_example.ipynb) as well as the [Compressed Air Energy Storage Example](toolchain_with_caes_example.ipynb).
 
-If you are interested in the code of the storage models, you will find it under in the folder `src\storage_models`
+If you are interested in the code of the storage models, you will find it in the folder `src\storage_models`
 
 
 ## Contact information
