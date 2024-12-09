@@ -1,0 +1,7 @@
+name;active;solved;solve_timeout;mip_gap;final_mip_gap;solution_time;objective;eta_in_mean;eta_out_mean
+phs_winter_max_without;1;1;900;0.01;0;0.02;2238640.433;0.864;0.884
+phs_winter_mean_without;1;1;900;0.01;0;0.02;2261919.199;0.7981;0.8501
+phs_winter_reg_without;1;1;900;0.01;2.07E-16;0.02;2253244.195;0.8137;0.8668
+phs_sommer_max_without;1;1;900;0.01;7.91E-16;0.03;1766978.194;0.864;0.884
+phs_sommer_mean_without;1;1;900;0.01;1.27E-16;0.01;1828060.085;0.7981;0.8501
+phs_sommer_reg_without;1;1;900;0.01;3.87E-16;0.02;1805978.045;0.8137;0.8668

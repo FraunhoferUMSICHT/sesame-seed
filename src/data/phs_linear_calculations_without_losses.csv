@@ -1,0 +1,7 @@
+name;active;solve_timeout;mip_gap;start_date;timeseries_length;frequency;input_data;sf_dem_[-];sf_res_[-];P_MAX_IN_[MW];P_MAX_OUT_[MW];SOC_MIN_[MWh];SOC_MAX_[MWh];SOC_INI_[-];ETA_SOC_[-];ETA_IN_[-];ETA_OUT_[-]
+phs_winter_max_without;1;900;0.01;18.01.2021 00:00;336;1H;data_jan_2021.csv;0.004955;0.015612;159;280;0;2235.93;0;;0.864;0.884
+phs_winter_mean_without;1;900;0.01;18.01.2021 00:00;336;1H;data_jan_2021.csv;0.004955;0.015612;159;280;0;2235.93;0;;0.7981;0.8501
+phs_winter_reg_without;1;900;0.01;18.01.2021 00:00;336;1H;data_jan_2021.csv;0.004955;0.015612;159;280;0;2235.93;0;;0.8137;0.8668
+phs_sommer_max_without;1;900;0.01;18.01.2021 00:00;336;1H;data_jul_2021.csv;0.004955;0.015612;159;280;0;2235.93;0;;0.864;0.884
+phs_sommer_mean_without;1;900;0.01;18.01.2021 00:00;336;1H;data_jul_2021.csv;0.004955;0.015612;159;280;0;2235.93;0;;0.7981;0.8501
+phs_sommer_reg_without;1;900;0.01;18.01.2021 00:00;336;1H;data_jul_2021.csv;0.004955;0.015612;159;280;0;2235.93;0;;0.8137;0.8668

@@ -1,0 +1,3 @@
+name;active;solved;solve_timeout;mip_gap;final_mip_gap;solution_time;objective;eta_in_mean;eta_out_mean
+param_example_1;1;1;900;0.01;3.639367968452566e-16;0.02;2559022.837724954;0.758805;0.788859
+param_example_2;1;1;900;0.01;1.8158790595225046e-16;0.01;2564384.91795917;0.726141;0.734086
